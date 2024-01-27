@@ -1,1 +1,2 @@
-# QuestionQuizMicroservice
+Autoclass application refers to a software application designed to automate and streamline various aspects of classroom management in educational institutions.Developed and maintained a robust quiz and question model within an autoclass management application using microservices architecture and Spring Boot.
+Create a AutoClass application that uses multiple microservices to store and manage the questions and answers. Each microservice could be responsible for a different task, such as storing the questions, managing the users, processing the answers.Create a question-and-answer application that uses microservices to allow users to ask and answer questions.
